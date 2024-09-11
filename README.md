@@ -58,7 +58,7 @@
 
 - Output result
 
-  `![WhatsApp Image 2024-09-11 at 18 49 12_fe59e517](https://github.com/user-attachments/assets/8a7096b1-8afd-451b-adcc-57b650f3e96e)`
+  ![WhatsApp Image 2024-09-11 at 18 49 12_fe59e517](https://github.com/user-attachments/assets/8a7096b1-8afd-451b-adcc-57b650f3e96e)
 
 ## Task 2
 
@@ -126,7 +126,7 @@
 
 - Output result
 
-  `![WhatsApp Image 2024-09-11 at 19 04 21_5d278ac3](https://github.com/user-attachments/assets/97b16213-fd7b-4ed5-8795-970babf76cd4)`
+  ![WhatsApp Image 2024-09-11 at 19 04 21_5d278ac3](https://github.com/user-attachments/assets/97b16213-fd7b-4ed5-8795-970babf76cd4)
 
 <br>
 <br>
@@ -211,7 +211,7 @@
 
 - Output result
 
-  `![WhatsApp Image 2024-09-11 at 19 13 52_3c030771](https://github.com/user-attachments/assets/938e23ec-24fb-4d32-972a-592d8b91aa1c)`
+  ![WhatsApp Image 2024-09-11 at 19 13 52_3c030771](https://github.com/user-attachments/assets/938e23ec-24fb-4d32-972a-592d8b91aa1c)
 
 <br>
 <br>
