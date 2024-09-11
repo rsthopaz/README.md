@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Yk-Ymzbj)
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-| xxxxxxx | xxxxxx | Jaringan Komputer (x) |
-| xxxxxxx | xxxxxx | Jaringan Komputer (x) |
+| Thopaz Givangkara Rosadi | 5025231050 | Jaringan Komputer (A) |
+| Moch. Septian Ezra | 5025231120 | Jaringan Komputer (A) |
 
 ## Task 1
 
@@ -14,7 +14,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{K4mu_K3r3n_S41VYRUEU6WI7B1ECQW5MW3GSWLC9B0xL4ughrxk29k465kgcml0bepsuaa0}`
 
 - Filter expression
 
@@ -23,13 +23,6 @@
 - Explanation
 
   `Describe how you solve the questions`
-
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
-
-<br>
-<br>
 
 > b. Ada berapa jenis protocol yang terekam pada traffic
 
@@ -39,7 +32,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{K4mu_K3r3n_S41VYRUEU6WI7B1ECQW5MW3GSWLC9B0xL4ughrxk29k465kgcml0bepsuaa0}`
 
 - Filter expression
 
@@ -48,13 +41,6 @@
 - Explanation
 
   `Describe how you solve the questions`
-
-- Output result
-
-  ``
-
-<br>
-<br>
 
 > c. Sebutkan secara berurutan berdasarkan alfabet menurun dengan koma sebagai separator, contoh: protocol1,protocol2
 
@@ -62,10 +48,6 @@
 
 **Answer:**
 
-- Flag
-
-  `Put your flag in here`
-
 - Filter expression
 
   `Put your filter expression here (if any)`
@@ -76,8 +58,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
-
+  `![WhatsApp Image 2024-09-11 at 18 49 12_fe59e517](https://github.com/user-attachments/assets/8a7096b1-8afd-451b-adcc-57b650f3e96e)`
 
 ## Task 2
 
@@ -89,7 +70,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{W0w_4nother_Sh0t_LFULGGIYQRH0mptyqannifojzhzlzgfxhxqfM4r141703011250207234927}`
 
 - Filter expression
 
@@ -102,9 +83,6 @@
 - Output result
 
   `Attach the screenshot of the output result of your flag`
-
-<br>
-<br>
 
 > b. How many TCP based packets have only the [SYN] flag?
 
@@ -128,9 +106,6 @@
 
   `Attach the screenshot of the output result of your flag`
 
-<br>
-<br>
-
 > c. How many TCP based packets have the ACK flag but do not have SYN or RST?
 
 > _c. How many TCP based packets have the ACK flag but do not have SYN or RST?_
@@ -151,7 +126,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+  `![WhatsApp Image 2024-09-11 at 19 04 21_5d278ac3](https://github.com/user-attachments/assets/97b16213-fd7b-4ed5-8795-970babf76cd4)`
 
 <br>
 <br>
@@ -167,7 +142,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{Y0u_4r3_4_g00d_4nalyz3r_DIK9WL1tsbpaihxh0xj11saylikkwtf}`
 
 - Filter expression
 
@@ -180,9 +155,6 @@
 - Output result
 
   `Attach the screenshot of the output result of your flag`
-
-<br>
-<br>
 
 > b. Berapa byte file response yang dikirim dari server
 
@@ -191,10 +163,6 @@
 
 **Answer:**
 
-- Flag
-
-  `Put your flag in here`
-
 - Filter expression
 
   `Put your filter expression here (if any)`
@@ -206,9 +174,6 @@
 - Output result
 
   `Attach the screenshot of the output result of your flag`
-
-<br>
-<br>
 
 > c. Berapa jumlah file yang terdapat pada server?
 
@@ -217,10 +182,6 @@
 
 **Answer:**
 
-- Flag
-
-  `Put your flag in here`
-
 - Filter expression
 
   `Put your filter expression here (if any)`
@@ -232,9 +193,6 @@
 - Output result
 
   `Attach the screenshot of the output result of your flag`
-
-<br>
-<br>
 
 > c. Sebutkan nama file secara berurutan berdasarkan alfabet menurun dengan koma sebagai separator, contoh: file1,file2
 
@@ -243,10 +201,6 @@
 
 **Answer:**
 
-- Flag
-
-  `Put your flag in here`
-
 - Filter expression
 
   `Put your filter expression here (if any)`
@@ -257,7 +211,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+  `![WhatsApp Image 2024-09-11 at 19 13 52_3c030771](https://github.com/user-attachments/assets/938e23ec-24fb-4d32-972a-592d8b91aa1c)`
 
 <br>
 <br>
@@ -273,7 +227,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{M4ster_4n4lyzer_11364t1k1BKPYMCMAKER41s89n6jee4xn}`
 
 - Filter expression
 
