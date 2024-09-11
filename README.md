@@ -80,10 +80,6 @@
 
   `Describe how you solve the questions`
 
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
-
 > b. How many TCP based packets have only the [SYN] flag?
 
 > _b. How many TCP based packets have only the [SYN] flag?_
@@ -97,10 +93,6 @@
 - Explanation
 
   `Describe how you solve the questions`
-
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
 
 > c. How many TCP based packets have the ACK flag but do not have SYN or RST?
 
@@ -401,3 +393,4 @@
 ## Summary
 
 ## Problems
+NGELAGGG
