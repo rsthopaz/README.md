@@ -90,10 +90,6 @@
 
 **Answer:**
 
-- Flag
-
-  `Put your flag in here`
-
 - Filter expression
 
   `Put your filter expression here (if any)`
@@ -111,10 +107,6 @@
 > _c. How many TCP based packets have the ACK flag but do not have SYN or RST?_
 
 **Answer:**
-
-- Flag
-
-  `Put your flag in here`
 
 - Filter expression
 
@@ -152,9 +144,6 @@
 
   `Describe how you solve the questions`
 
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
 
 > b. Berapa byte file response yang dikirim dari server
 
@@ -171,9 +160,6 @@
 
   `Describe how you solve the questions`
 
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
 
 > c. Berapa jumlah file yang terdapat pada server?
 
@@ -189,10 +175,6 @@
 - Explanation
 
   `Describe how you solve the questions`
-
-- Output result
-
-  `Attach the screenshot of the output result of your flag`
 
 > c. Sebutkan nama file secara berurutan berdasarkan alfabet menurun dengan koma sebagai separator, contoh: file1,file2
 
@@ -239,7 +221,8 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+![WhatsApp Image 2024-09-11 at 18 51 31_c4763c9d](https://github.com/user-attachments/assets/8a261abf-908f-4131-8a0b-29a0c7a5b229)
+
 
 <br>
 <br>
@@ -255,7 +238,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{He_1s_g3d4g3d1g3d4g3d40_LPTYAKHKIESWQWLTEZNSMunskymljdcjnuwft453724658971}`
 
 - Filter expression
 
@@ -265,9 +248,9 @@
 
   `Describe how you solve the questions`
 
-- Output result
+ - Output result
 
-  `Attach the screenshot of the output result of your flag`
+  ![WhatsApp Image 2024-09-11 at 19 15 54_97d721ac](https://github.com/user-attachments/assets/251162e6-15d9-4244-b13e-5c62ae7e8770)
 
 <br>
 <br>
@@ -283,7 +266,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{h1s_fr1end_1s_g3d4g3d1g3d4g3d03_UGH2CXGDT8yksnUmbdtqqsornxB4Sur1QYUBERIJHS}`
 
 - Filter expression
 
@@ -295,7 +278,8 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+![WhatsApp Image 2024-09-11 at 18 56 21_1ebe6b0c](https://github.com/user-attachments/assets/00d33fcd-dbfb-4da4-a3e8-90259df99291)
+
 
 <br>
 <br>
@@ -311,7 +295,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{Gr34t_Sn1ff3r_VM3XHyksnUm47jxmcirntT3t0tOiyCG2S24I}`
 
 - Filter expression
 
@@ -323,7 +307,8 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+ ![WhatsApp Image 2024-09-11 at 19 28 12_dd10f547](https://github.com/user-attachments/assets/7323c09c-2870-4d0e-b0d9-339e3d09846a)
+
 
 <br>
 <br>
@@ -339,7 +324,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{P4ck3t_4n4lyz3r_Xm3WeJ3sg33112kavyboigwiS1SFTCQBTVJIW}  `
 
 - Filter expression
 
@@ -351,7 +336,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+![WhatsApp Image 2024-09-11 at 19 36 56_fb2f1060](https://github.com/user-attachments/assets/967c5d04-55f8-4ffe-8e63-9f3aad516b03)
 
 <br>
 <br>
@@ -367,7 +352,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{333ch000_us3r_254437520812NDiiGlmPmvd33dVDDQ1T2XNG}`
 
 - Filter expression
 
@@ -379,7 +364,7 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+ ![WhatsApp Image 2024-09-11 at 19 38 41_0d20a568](https://github.com/user-attachments/assets/2ec421ee-56b1-44b5-99dc-0a8e956651f8)
 
 <br>
 <br>
@@ -395,7 +380,7 @@
 
 - Flag
 
-  `Put your flag in here`
+  `JARKOM24{tH4ts_1t_w3ll_d0n3_98292014411337r7h71uweih1231421421OUCF86LTLP5XV2C}`
 
 - Filter expression
 
@@ -407,7 +392,8 @@
 
 - Output result
 
-  `Attach the screenshot of the output result of your flag`
+  ![WhatsApp Image 2024-09-11 at 20 03 25_bc86108b](https://github.com/user-attachments/assets/35b840c8-7588-4de2-bca8-6a058e2340e6)
+
 
 <br>
 <br>
